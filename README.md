@@ -13,7 +13,7 @@ A self-hosted medical assistant demo with separate patient and doctor portals: A
 ---
 
 ## Table of contents
-
+- [Flow Diagram](#Flow-Diagram)
 - [Features](#features)
 - [Architecture](#architecture)
 - [Tech stack](#tech-stack)
