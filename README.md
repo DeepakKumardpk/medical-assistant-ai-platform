@@ -2,6 +2,12 @@
 
 A self-hosted medical assistant demo with separate patient and doctor portals: AI chat backed by retrieval-augmented generation (RAG) over uploaded reports and prescriptions, risk-based doctor approval of AI answers, and appointment/notification workflows.
 
+## 🌐 Live Demo
+
+**Experience the Medical AI Platform**
+
+**Live Website:** http://34.46.88.239/
+
 > **Scope note:** this is a personal demo/portfolio project, not a real medical product. All patient and doctor data is fictitious.
 
 ---
