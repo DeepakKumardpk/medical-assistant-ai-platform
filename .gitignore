@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Node
+node_modules/
+dist/
+build/
+
+# Env / secrets
+.env
+*.env.local
+
+# Corpus (user-supplied reference docs, may be large/sensitive)
+corpus/*
+!corpus/README.md
+
+# Uploaded files (local dev volume)
+uploaded_files/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
