@@ -6,7 +6,7 @@ A self-hosted medical assistant demo with separate patient and doctor portals: A
 
 **Experience the Medical AI Platform**
 
-**Live Website:** http://34.46.88.239/
+**Live Website:** https://34-46-88-239.sslip.io
 
 > **Scope note:** this is a personal demo/portfolio project, not a real medical product. All patient and doctor data is fictitious.
 
